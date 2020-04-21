@@ -27,3 +27,5 @@ puts epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 end
 
+return fourth_challenge; 
+
